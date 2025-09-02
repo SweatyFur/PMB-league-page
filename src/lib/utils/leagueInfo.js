@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = "1049456153182724096"; // your league ID
+export const leagueID = "1206364874020487168"; // your league ID
 export const leagueName = "Papa Murphy & The Boys"; // your league name
 export const dues = 100;
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
