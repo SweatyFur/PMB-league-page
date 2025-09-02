@@ -1,18 +1,21 @@
 /*   STEP 1   */
-export const leagueID = "your_league_id"; // your league ID
-export const leagueName = "your_league_name"; // your league name
+export const leagueID = "1206364874020487168"; // your league ID
+export const leagueName = "Papa Murphy & The Boys"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p><strong>League Bio – The Fellowship of Sixteen</strong></p>
+
+<p>In a realm where rivalries burn bright and friendships run even deeper, sixteen champions gather each season to test their mettle. Divided into four proud divisions, each manager carries the banner of fellowship, strategy, and spirited competition.</p>
+
+<p>This league isn’t just about wins, losses, or trophies—it’s about the bonds forged through draft day banter, trade negotiations, and the thrill of game day battles. Every matchup is a new chapter in an ongoing saga where laughter, rivalry, and respect reign supreme.</p>
+
+<p>At its heart, this league is a fellowship: sixteen unique voices, united by the love of competition and the joy of playing the game together. Some seek glory, some seek redemption, but all share in the journey.</p>
+
+<p>Here, legends are written not only in championships but in the camaraderie that carries us from season to season.</p>
 `;
 
 /*   STEP 3   */
