@@ -179,13 +179,13 @@ export const managers = [
     },
 
    {
-    //   Austin Kloewer Manager Page
-         "managerID": "741123762556215296",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-         "name": "Austin Kloewer",
+    //   Josh Russell Manager Page
+       "managerID": "737340187536982016",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+         "name": "Josh Russell",
          "location": "Iowa City, Iowa", // (optional)
-         "bio": "A true Iowa City guy, Klave brings a passion to everything he does including the PM&B fantasy football league. Soon to be father of two, (3 if you count Franklin the dog) he has the family support behind him to bring home a championship.",
+         "bio": "Pure ball knower. Why was this guy not in our league? Knows ball and also knows medicine, specifically ketamine.",
          "photo": "/managers/Klave.JPG", // square ratio recommended (no larger than 500x500)
-         "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
+         "fantasyStart": 2016, // (optional) when did the manager start playing fantasy football
          "favoriteTeam": "min", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
          "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
          "rival": {
