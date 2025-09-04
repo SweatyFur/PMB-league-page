@@ -306,7 +306,7 @@
         <li>Ryan Murphy - Commissioner</li>
         <li>Alan Mazzarella</li>
         <li>Anders Almberg</li>
-        <li>Austin Kloewer</li>
+        <li>Josh Russell</li>
         <li>Caleb Fruhling</li>
         <li>Camden Glenn</li>
         <li>Casey Blaylock</li>
@@ -344,7 +344,7 @@
         <p>East</p>
         <ul>Cole Williams</ul>
         <ul>Casey Blaylock</ul>
-        <ul>Austin Kloewer</ul>
+        <ul>Josh Russell</ul>
         <ul>Anders Almberg</ul>
     </ol>
 
