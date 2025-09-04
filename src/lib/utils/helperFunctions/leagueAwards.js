@@ -47,11 +47,11 @@ const getPodiums = async (previousSeasonID) => {
 			divisionArr.push(divisions[key]);
 		}
 
-		const finalsMatch = winnersData.filter(m => m.r == playoffRounds && m.t1_from.w)[0];
+		const finalsMatch = winnersData.filter(m => m.r == playoffRounds && m.t1_from?.w)[0];
 		const champion = finalsMatch.w;
 		const second = finalsMatch.l;
 	
-		const runnersUpMatch = winnersData.filter(m => m.r == playoffRounds && m.t1_from.l)[0];
+		const runnersUpMatch = winnersData.filter(m => m.r == playoffRounds && m.t1_from?.l)[0];
 		const third = runnersUpMatch.w;
 
 		const toiletBowlMatch = losersData.filter(m => m.r == toiletRounds && (!m.t1_from || m.t1_from.w))[0];
